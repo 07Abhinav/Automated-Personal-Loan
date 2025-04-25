@@ -1,3 +1,4 @@
 models/
 data/
 app/__pycache__/
+src/__pycache__/
